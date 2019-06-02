@@ -3,30 +3,30 @@
     <option name="myName" value="Project Default" />
     <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="AmdModulesDependencies" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-    <inspection_tool class="AngularAmbiguousComponentTag" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularCliAddDependency" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="AngularInaccessibleComponentMemberInAotMode" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="AngularIncorrectTemplateDefinition" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularInsecureBindingToEvent" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="AngularInvalidAnimationTriggerAssignment" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularInvalidEntryComponent" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularInvalidExpressionResultType" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="AngularInvalidImportedOrDeclaredSymbol" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularInvalidSelector" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularInvalidTemplateReferenceVariable" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularMissingEventHandler" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularMissingOrInvalidDeclarationInModule" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularMultipleStructuralDirectives" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularNonEmptyNgContent" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularRecursiveModuleImportExport" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularUndefinedBinding" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularUndefinedModuleExport" enabled="true" level="ERROR" enabled_by_default="true" />
-    <inspection_tool class="AngularUndefinedTag" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="AngularAmbiguousComponentTag" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularCliAddDependency" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInaccessibleComponentMemberInAotMode" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularIncorrectTemplateDefinition" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInsecureBindingToEvent" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInvalidAnimationTriggerAssignment" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInvalidEntryComponent" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInvalidExpressionResultType" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInvalidImportedOrDeclaredSymbol" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInvalidSelector" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularInvalidTemplateReferenceVariable" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularMissingEventHandler" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularMissingOrInvalidDeclarationInModule" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularMultipleStructuralDirectives" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularNonEmptyNgContent" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularRecursiveModuleImportExport" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularUndefinedBinding" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularUndefinedModuleExport" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="AngularUndefinedTag" enabled="true" level="INFORMATION" enabled_by_default="true" />
     <inspection_tool class="Annotator" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="AnonymousFunctionJS" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="AppEngineDeprecatedRuntimeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="AppEngineThreadsafeCGIHandlerInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="AppEngineThreadsafeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AppEngineDeprecatedRuntimeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AppEngineThreadsafeCGIHandlerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AppEngineThreadsafeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="AssignmentResultUsedJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="AssignmentToForLoopParameterJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="AssignmentToFunctionParameterJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -113,18 +113,18 @@
     <inspection_tool class="DebuggerStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DivideByZeroJS" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="DjangoBrokenLineCommentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoCloseTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoIncompatibleInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoOrmInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoRelationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoUnresolvedFilterInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoUnresolvedLoadInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoUnresolvedStaticReferenceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoUnresolvedTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DjangoUnresolvedTemplateReferenceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DjangoBrokenLineCommentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoCloseTagInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoIncompatibleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoOrmInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoRelationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedFilterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedLoadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedStaticReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedTagInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedTemplateReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DjangoUnresolvedUrlInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-    <inspection_tool class="DjangoUrlArgumentsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DjangoUrlArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DockerFileAddOrCopySemantic" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="DockerFileArgumentCount" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="DockerFileAssignments" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -140,7 +140,7 @@
       <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
     </inspection_tool>
     <inspection_tool class="DuplicateSectionInFile" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="DuplicatedBlockNamesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicatedBlockNamesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ES6BindWithArrowFunction" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ES6CheckImport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -187,10 +187,10 @@
       <option name="m_reportEmptyBlocks" value="false" />
     </inspection_tool>
     <inspection_tool class="EmptyTryBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="EndBlockNamesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EndBlockNamesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="Eslint" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ExceptionCaughtLocallyJS" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="ExtendsTagPositionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ExtendsTagPositionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="FallThroughInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="FlowJSConfig" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="FlowJSCoverage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -510,9 +510,9 @@
       <option name="ignoreVariablesStartingWithUnderscore" value="true" />
     </inspection_tool>
     <inspection_tool class="PyramidSetupInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="Query_bound_parameters" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="Query_index_required" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="Query_restricted" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Query_bound_parameters" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Query_index_required" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Query_restricted" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="RegExpAnonymousGroup" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="RegExpDuplicateAlternationBranch" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -529,7 +529,7 @@
     </inspection_tool>
     <inspection_tool class="ReservedWordUsedAsNameJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="RestRoleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="Restricted_Python_calls" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Restricted_Python_calls" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ReturnFromFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ReuseOfLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="SSBasedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
